@@ -1,6 +1,6 @@
 # shopping_app
 
-A new Flutter project.
+https://github.com/mehmetcannn0/shopping_nodejs_app projesının rest apileri kullanıldı
 
 ## Getting Started
 
